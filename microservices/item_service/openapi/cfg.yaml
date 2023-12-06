@@ -1,0 +1,7 @@
+package: handlers
+generate:
+  models: true
+  embedded-spec: true
+  echo-server: true
+  strict-server: true
+output: ../handlers/handlers.gen.go

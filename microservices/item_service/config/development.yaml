@@ -1,0 +1,7 @@
+api_port: 8080
+healthcheck_port: 8081
+mongodb_url: mongodb://mongodb:27017
+log:
+  output:
+    - stdout
+  level: debug
